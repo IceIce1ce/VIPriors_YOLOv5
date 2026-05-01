@@ -15,9 +15,16 @@
 }
 ```
 
-## 2. Contact
+## 2. To train and test the model for the DelftBikes dataset, run the following scripts:
+```shell
+bash scripts/train.sh
+bash scripts/val.sh
+bash scripts/detect.sh
+```
+
+## 3. Contact
 If you have any questions, feel free to contact `Chi Tran`
 ([ctran743@gmail.com](ctran743@gmail.com) or [tdc2000@skku.edu](tdc2000@skku.edu)).
 
-## 3. Acknowledgement
+## 4. Acknowledgement
 Our framework is built using multiple open source, thanks for their great contributions.
